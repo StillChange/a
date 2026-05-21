@@ -1,40 +1,18 @@
-# My Basic Website
+# Local_DT
 
-A simple HTML/CSS website template to get you started with web development.
+Minimal multi-page personal website concept.
 
-## Features
+## Pages
 
-- Clean and responsive design
-- Navigation menu
-- Multiple sections (Home, About, Contact)
-- Mobile-friendly layout
-- Professional styling
+- `index.html`
+- `hobbies.html`
+- `projects.html`
+- `contact.html`
 
-## Files
+## Run locally
 
-- `index.html` - Main HTML structure
-- `styles.css` - Styling and responsive design
-- `README.md` - Project documentation
+```powershell
+node .\server.js
+```
 
-## How to Use
-
-1. Clone or download the repository
-2. Open `index.html` in your web browser
-3. Customize the content to suit your needs
-
-## Customization
-
-You can easily customize:
-- Navigation links
-- Section content
-- Colors in `styles.css`
-- Fonts and typography
-
-## Viewing Your Website
-
-You can view this website on GitHub Pages:
-1. Go to your repository settings
-2. Enable GitHub Pages
-3. Select the `main` branch as the source
-
-Your site will be available at: `https://StillChange.github.io/a/`
+Then open `http://localhost:3050`.
