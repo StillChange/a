@@ -746,3 +746,9 @@ p {
     padding: 0.55rem 0.65rem;
   }
 }
+
+.site-disclosure {
+  max-width: 48rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.92rem;
+}
