@@ -677,3 +677,49 @@ p {
     padding: 1rem 0 0;
   }
 }
+
+/* Profile identity and CV details. */
+.hero-alias {
+  margin-top: 0.9rem;
+  max-width: 34rem;
+  color: rgba(247, 247, 242, 0.92);
+  font-size: 1rem;
+}
+
+.detail-card h3 {
+  margin-top: 0.55rem;
+  font-size: clamp(1.35rem, 3vw, 1.9rem);
+}
+
+.text-link {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.project-meta {
+  flex-wrap: wrap;
+}
+
+.contact-card a {
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 860px) {
+  .nav-links {
+    flex: 0 0 100%;
+    order: 4;
+  }
+}
+
+@media (max-width: 380px) {
+  .brand {
+    min-width: 0;
+    gap: 0.5rem;
+  }
+  .brand-text {
+    font-size: 1rem;
+  }
+  .nav-toggle {
+    padding: 0.55rem 0.65rem;
+  }
+}

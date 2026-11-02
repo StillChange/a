@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://damthanh.com/sitemap.xml
