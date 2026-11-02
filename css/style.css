@@ -691,6 +691,24 @@ p {
   font-size: clamp(1.35rem, 3vw, 1.9rem);
 }
 
+.focus-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  align-items: start;
+  gap: 2.5rem;
+}
+
+.focus-research {
+  padding: 1.75rem;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-large);
+  background: var(--surface);
+}
+
+.focus-research .text-link {
+  color: var(--accent-strong);
+}
+
 .text-link {
   text-decoration: underline;
   text-underline-offset: 0.2em;
@@ -705,6 +723,11 @@ p {
 }
 
 @media (max-width: 860px) {
+  .focus-section {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.75rem;
+  }
+
   .nav-links {
     flex: 0 0 100%;
     order: 4;
