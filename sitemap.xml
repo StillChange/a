@@ -12,28 +12,4 @@
     <xhtml:link rel="alternate" hreflang="vi" href="https://damthanh.com/index-vi.html" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://damthanh.com/" />
   </url>
-  <url>
-    <loc>https://damthanh.com/projects.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://damthanh.com/projects.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://damthanh.com/projects-vi.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://damthanh.com/projects.html" />
-  </url>
-  <url>
-    <loc>https://damthanh.com/projects-vi.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://damthanh.com/projects.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://damthanh.com/projects-vi.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://damthanh.com/projects.html" />
-  </url>
-  <url>
-    <loc>https://damthanh.com/contact.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://damthanh.com/contact.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://damthanh.com/contact-vi.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://damthanh.com/contact.html" />
-  </url>
-  <url>
-    <loc>https://damthanh.com/contact-vi.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://damthanh.com/contact.html" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://damthanh.com/contact-vi.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://damthanh.com/contact.html" />
-  </url>
 </urlset>
